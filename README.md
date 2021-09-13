@@ -1,2 +1,2 @@
 # im-kit
-a powerful and beautiful im uikit
+a powerful and beautiful im kit
